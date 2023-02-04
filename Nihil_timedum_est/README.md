@@ -1,5 +1,4 @@
-# week_three
-## TEXT ADVENTURE IN JS!
+# #Nihil Timedum Est
 
 Welcome to Nihil timedum est. Learn to make the right choices at the right time to get the right life otherwise die an immoral death or end in financial ruin. 
 ![alt text](img1.PNG)
